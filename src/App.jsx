@@ -623,7 +623,7 @@ const end = el.getBoundingClientRect().top + window.scrollY + offset;
           >
             Email
           </div>
-          <div>Lennert.koch76@gmail.com</div>
+          <div>info@kochfurniture.com</div>
         </div>
 
         <div>

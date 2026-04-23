@@ -794,7 +794,7 @@ function ProjectSection({
     style={{
       position: "absolute",
       left: "36px",
-      bottom: "140px",
+      bottom: "180px",
       maxWidth: "320px",
       color: "#f5f1ea",
       paddingRight: "8px",
